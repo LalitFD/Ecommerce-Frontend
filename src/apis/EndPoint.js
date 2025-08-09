@@ -1,4 +1,5 @@
-export const BASE_URL = "http://localhost:3000";
+// export const BASE_URL = "http://localhost:3000";
+export const BASE_URL = "https://ecommerce-beckend.onrender.com"
 
 export default {
     PRODUCT_LIST: BASE_URL + "/get",
